@@ -1,0 +1,4 @@
+# 公网产物目录会直接当 git 仓库用（GitHub Pages）。
+# 必须禁掉 Git 的换行符转换，否则 tessdata/*.traineddata（二进制）和
+# tesseract-core/*.wasm.js 会被 CRLF 破坏，手机上 OCR 直接失效。
+* -text
