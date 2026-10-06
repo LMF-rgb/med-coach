@@ -11,7 +11,7 @@
    "questions": 960
   },
   "total": 1084,
-  "note": "职教高考题库 + 考纲树，由 med-coach-exam 流水线生成，App 空库时自动播种"
+  "note": "专升本题库 + 考纲树，由 med-coach-exam 流水线生成，App 空库时自动播种"
  },
  "data": {
   "subjects": [
@@ -1022,7 +1022,7 @@
   "questionSources": [
    {
     "id": 901,
-    "name": "医药大类各科试卷（职教高考专项）",
+    "name": "医药大类各科试卷（专升本）",
     "type": "exam",
     "createdAt": 1791198310561
    }
